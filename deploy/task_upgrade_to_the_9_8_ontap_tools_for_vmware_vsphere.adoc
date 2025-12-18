@@ -11,7 +11,7 @@ summary: Você pode executar uma atualização no local para a versão mais rece
 
 
 [role="lead"]
-Você pode executar uma atualização no local para a versão mais recente das ferramentas do ONTAP a partir de sua versão 9.7P1 existente ou posterior, seguindo as instruções fornecidas aqui.
+Você pode realizar uma atualização in-place para a versão mais recente das ferramentas ONTAP a partir da sua versão atual 9.10 ou posterior, seguindo as instruções fornecidas aqui.
 
 *O que você vai precisar*
 

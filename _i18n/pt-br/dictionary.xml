@@ -1142,7 +1142,6 @@
   <block id="06e0b13e99109afd1553218d06e4287d" category="inline-link-macro">Configurar o SRA no dispositivo SRM</block>
   <block id="a7b1731ee7a384d42899d1089c98fcd0" category="paragraph"><block ref="a7b1731ee7a384d42899d1089c98fcd0" category="inline-link-macro-rx"></block></block>
   <block id="169debc36900220172817b74d871e07b" category="summary">Você pode executar uma atualização no local para a versão mais recente das ferramentas do ONTAP a partir de sua configuração existente 9.7.1 ou posterior, seguindo as instruções fornecidas aqui.</block>
-  <block id="c5910340b269c593d16e5bb21c2ce618" category="paragraph">Você pode executar uma atualização no local para a versão mais recente das ferramentas do ONTAP a partir de sua versão 9.7P1 existente ou posterior, seguindo as instruções fornecidas aqui.</block>
   <block id="2dc470ea65bfb20ee49093121123d780" category="list-text">Você deve ter baixado o arquivo _.iso_ para a versão mais recente das ferramentas do ONTAP.</block>
   <block id="a4e823e6cf6b2607b41091f82b0af84a" category="list-text">Você deve ter reservado pelo menos 12 GB de RAM para que as ferramentas do ONTAP funcionem de forma otimizada após a atualização.</block>
   <block id="0f6b46646b20a88d8f02325e984a1ab4" category="list-text">Você deve limpar o cache do navegador do vSphere Client.</block>
@@ -2001,4 +2000,5 @@
   <block id="12681823486b41daa05bf9d691b0f8cd" category="sidebar">Migrar o Windows SRM para o dispositivo SRM</block>
   <block id="3d7d171ecad1cba0c2d8d707b648b023" category="sidebar">Configurar sites protegidos e de recuperação</block>
   <block id="6956cfc9382ccb41c8ac57f99255b409" category="sidebar">Verifique os sistemas de storage replicados</block>
+  <block id="20f1e803dc0cd0cd8a34402229733015" category="paragraph">Você pode realizar uma atualização in-place para a versão mais recente das ferramentas ONTAP a partir da sua versão atual 9.10 ou posterior, seguindo as instruções fornecidas aqui.</block>
 </blocks>
